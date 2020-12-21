@@ -19,7 +19,7 @@ You need to have an account on ngrok to get your authtoken!
 <p>sudo git clone https://github.com/rootmoura/QuizzPhisher.git</p>
 <p>cd QuizzPhisher</p>
 <p>sudo su</p>
-<p>pip3 -r install requirements.txt</p>
+<p>pip3 install -r requirements.txt</p>
 <p>python3 QuizzPhisher.py</p>
 
 
