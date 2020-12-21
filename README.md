@@ -13,8 +13,11 @@ You need to have an account on ngrok to get your authtoken!
 <p>Xterm (Fedora): dnf install xterm</p>
 <p>Xterm (Manjaro/Arch): pacman -Syu xterm</p>
 
+2° Make sure you have PHP installed, if not, install it!
+<p>sudo apt-get install php</p>
 
-2° Clone the repository on github and Install
+
+3° Clone the repository on github and Install
 
 <p>sudo git clone https://github.com/rootmoura/QuizzPhisher.git</p>
 <p>cd QuizzPhisher</p>
