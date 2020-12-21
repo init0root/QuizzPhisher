@@ -14,14 +14,14 @@ You need to have an account on ngrok to get your authtoken!
 <p>Xterm (Manjaro/Arch): pacman -Syu xterm</p>
 
 
-2° Clone the repository on github and Install{
+2° Clone the repository on github and Install
 
-sudo git clone https://github.com/rootmoura/QuizzPhisher.git
-cd QuizzPhisher
-sudo su
-pip3 -r install requirements.txt
-python3 QuizzPhisher.py
-}
+<p>sudo git clone https://github.com/rootmoura/QuizzPhisher.git</p>
+<p>cd QuizzPhisher</p>
+<p>sudo su</p>
+<p>pip3 -r install requirements.txt</p>
+<p>python3 QuizzPhisher.py</p>
+
 
 <h2> I am not responsible for your actions using this application, take it easy! </h2>
 
