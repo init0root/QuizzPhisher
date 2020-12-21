@@ -1,1 +1,3 @@
 # QuizzPhisher
+
+![Screenshot](demo.png)
