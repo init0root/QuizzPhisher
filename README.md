@@ -9,9 +9,9 @@ A program that automates the phishing process using a simple Quizz.
 You need to have an account on ngrok to get your authtoken!
 
 1° Make sure you have xterm installed, if not, install it!
-\n Xterm (ubuntu/debian): sudo apt-get install xterm
-Xterm (Fedora): dnf install xterm\n
-Xterm (Manjaro/Arch): pacman -Syu xterm
+<p>Xterm (ubuntu/debian): sudo apt-get install xterm</p>
+<p>Xterm (Fedora): dnf install xterm</p>
+<p>Xterm (Manjaro/Arch): pacman -Syu xterm</p>
 
 
 2° Clone the repository on github and Install{
